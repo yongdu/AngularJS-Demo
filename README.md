@@ -1,2 +1,3 @@
 # AngularJS-Demo
-log for learning angularJS
+
+A collection of simple demos of AngularJS-Demo
