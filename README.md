@@ -1,12 +1,11 @@
+=======
 AngularJS-Demo
 
-=================
 
 A collection of simple demos of AngularJS-Demo.
 ----------
-
 Demos Part
--------------------
+
 
 ### Demo 1
 
